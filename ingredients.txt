@@ -1,7 +1,2 @@
 flower
 Eggs
-sugar
-milk
-butter
-baking powder
-strawberries
